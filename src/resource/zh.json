@@ -1,0 +1,14 @@
+{
+  "text":"zh",
+  "a":{
+    "b":{
+      "c":"d-zh"
+    }
+  },
+  "text_replace":"hehe-zh${html}",
+  "resume":[
+    {"label":"测试","type":"zh","list":[{"id":1,"descript":"我是中文"}]},
+    {"label":"测试-2","type":"zh","list":[{"id":1,"descript":"我是中文"}]},
+    {"label":"测试-3","type":"zh","list":[{"id":1,"descript":"我是中文"}]}
+  ]
+}

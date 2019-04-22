@@ -1,0 +1,9 @@
+{
+  "text":"en",
+  "a":{
+    "b":{
+      "c":"d-en"
+    }
+  },
+  "text_replace":"hehe-en${html}"
+}
